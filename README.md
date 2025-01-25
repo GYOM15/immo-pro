@@ -114,8 +114,8 @@ http://localhost:8000
 http://localhost:8000/admin
 ```
 Default admin credentials:
-- Email: admin@example.com
-- Password: password
+- Email: john@doe.com
+- Password: 0000
 
 3. Start managing properties:
 - Add new properties
